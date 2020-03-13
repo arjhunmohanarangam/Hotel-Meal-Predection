@@ -1,9 +1,9 @@
-## Hotel-Meal-Predection
+# Hotel-Meal-Predection
 
-# Data:
+## Data:
 I got this data from www.kaggle.com . The link for the data is in the program folder.
 
-# Descreption:
+## Descreption:
 The meaning of each colums are
 
 1. hotel Hotel (H1 = Resort Hotel or H2 = City Hotel)
@@ -73,13 +73,13 @@ Contract - when the booking has an allotment or other type of contract associate
 
 32. reservation_status_dateDate at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel
 
-# Columns used for ML:
+## Columns used for ML:
 'is_canceled','lead_time','arrival_date_year','arrival_date_month','arrival_date_week_number','arrival_date_day_of_month',
 'stays_in_week_nights','stays_in_weekend_nights','adults','children','babies','agent','adr','total_of_special_requests','required_car_parking_spaces',"meal"
 
 where "meal" is the Target and all the other columns are Feature 
 
-# Algorithm Used and their accuracy:
+## Algorithm Used and their accuracy:
 
 Since we are going to predict meal that the coustomer will choose. We can use the Classification algorithm for this problem.
 
