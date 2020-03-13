@@ -84,7 +84,8 @@ where "meal" is the Target and all the other columns are Feature
 Since we are going to predict meal that the coustomer will choose. We can use the Classification algorithm for this problem.
 
 I have used 
-[K-Nearest Neighbors (KNN)] accuracy_score: 0.799.
-[Decision Tree -- entropy] accuracy_score: 0.849.
-[Decision Tree -- gini] accuracy_score: 0.834.
-[RandomForest] accuracy_score: 0.866.
+
+1. [K-Nearest Neighbors (KNN)] accuracy_score: 0.799.
+2. [Decision Tree -- entropy] accuracy_score: 0.849.
+3. [Decision Tree -- gini] accuracy_score: 0.834.
+4. [RandomForest] accuracy_score: 0.866.
