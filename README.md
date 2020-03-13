@@ -1,4 +1,4 @@
-# Hotel-Meal-Predection
+# Hotel-Meal-Prediction
 
 ## Data:
 I got this data from www.kaggle.com . The link for the data is in the program folder.
